@@ -1,26 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="560px" height="560px" viewBox="0 0 560 560" enable-background="new 0 0 560 560" xml:space="preserve">
-<path fill="#B3E5E2" d="M84.882,286.587c44.16-49.538,120.114-53.898,169.653-9.737c49.537,44.157,53.897,120.111,9.738,169.65
-	C220.113,496.038,5.804,555.872,5.804,555.872S40.724,336.123,84.882,286.587z"/>
-<path fill="#59C7BF" d="M99.101,286.068c40.386-45.304,109.85-49.292,155.153-8.906c45.304,40.386,49.291,109.85,8.906,155.152
-	C222.775,477.62,32.834,525.55,32.834,525.55S58.715,331.373,99.101,286.068z"/>
-<radialGradient id="SVGID_1_" cx="191.4434" cy="347.6221" r="94.6523" gradientUnits="userSpaceOnUse">
-	<stop  offset="0" style="stop-color:#00A99D;stop-opacity:0.7"/>
-	<stop  offset="0.9532" style="stop-color:#00A99D;stop-opacity:0.9859"/>
-	<stop  offset="1" style="stop-color:#00A99D;stop-opacity:1"/>
-</radialGradient>
-<circle fill="url(#SVGID_1_)" cx="191.444" cy="347.622" r="94.65"/>
-<path fill="#B3E5E2" d="M282.731,87.738c-49.538,44.16-53.898,120.114-9.737,169.653c44.157,49.537,120.111,53.897,169.65,9.738
-	c49.538-44.16,109.372-258.47,109.372-258.47S332.268,43.579,282.731,87.738z"/>
-<path fill="#59C7BF" d="M282.213,101.956c-45.304,40.386-49.292,109.85-8.906,155.153c40.386,45.304,109.85,49.291,155.152,8.906
-	c45.306-40.385,93.235-230.326,93.235-230.326S327.518,61.571,282.213,101.956z"/>
-<radialGradient id="SVGID_2_" cx="181.4438" cy="356.6221" r="94.6523" gradientTransform="matrix(-1.571376e-010 1 1 1.571376e-010 -12.8555 12.8555)" gradientUnits="userSpaceOnUse">
-	<stop  offset="0" style="stop-color:#00A99D;stop-opacity:0.7"/>
-	<stop  offset="0.9532" style="stop-color:#00A99D;stop-opacity:0.9859"/>
-	<stop  offset="1" style="stop-color:#00A99D;stop-opacity:1"/>
-</radialGradient>
-<circle fill="url(#SVGID_2_)" cx="343.767" cy="194.3" r="94.65"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="547px" height="548px" viewBox="0 0 547 548" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>gesturehandler</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="49.999683%" cy="50.0000528%" fx="49.999683%" fy="50.0000528%" r="50.001215%" id="radialGradient-1">
+            <stop stop-color="#00A99D" stop-opacity="0.7" offset="0%"></stop>
+            <stop stop-color="#00A99D" stop-opacity="0.9859" offset="95.32%"></stop>
+            <stop stop-color="#00A99D" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="49.9997887%" cy="49.9996302%" fx="49.9997887%" fy="49.9996302%" r="50.001215%" id="radialGradient-2">
+            <stop stop-color="#00A99D" stop-opacity="0.7" offset="0%"></stop>
+            <stop stop-color="#00A99D" stop-opacity="0.9859" offset="95.32%"></stop>
+            <stop stop-color="#00A99D" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gesturehandler" fill-rule="nonzero">
+            <path d="M79.882,278.587 C124.042,229.049 199.996,224.689 249.535,268.85 C299.072,313.007 303.432,388.961 259.273,438.5 C215.113,488.038 0.804,547.872 0.804,547.872 C0.804,547.872 35.724,328.123 79.882,278.587 Z" id="Path" fill="#B3E5E2"></path>
+            <path d="M94.101,278.068 C134.487,232.764 203.951,228.776 249.254,269.162 C294.558,309.548 298.545,379.012 258.16,424.314 C217.775,469.62 27.834,517.55 27.834,517.55 C27.834,517.55 53.715,323.373 94.101,278.068 Z" id="Path" fill="#59C7BF"></path>
+            <circle id="Oval" fill="url(#radialGradient-1)" cx="186.444" cy="339.622" r="94.65"></circle>
+            <path d="M277.731,79.738 C228.193,123.898 223.833,199.852 267.994,249.391 C312.151,298.928 388.105,303.288 437.644,259.129 C487.182,214.969 547.016,0.659 547.016,0.659 C547.016,0.659 327.268,35.579 277.731,79.738 Z" id="Path" fill="#B3E5E2"></path>
+            <path d="M277.213,93.956 C231.909,134.342 227.921,203.806 268.307,249.109 C308.693,294.413 378.157,298.4 423.459,258.015 C468.765,217.63 516.694,27.689 516.694,27.689 C516.694,27.689 322.518,53.571 277.213,93.956 Z" id="Path" fill="#59C7BF"></path>
+            <circle id="Oval" fill="url(#radialGradient-2)" cx="338.767" cy="186.3" r="94.65"></circle>
+        </g>
+    </g>
 </svg>

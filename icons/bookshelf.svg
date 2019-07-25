@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="93.566px" height="93.566px" viewBox="0 0 93.566 93.566" enable-background="new 0 0 93.566 93.566" xml:space="preserve">
-<circle fill="#E16426" cx="46.783" cy="46.783" r="46.783"/>
-<rect x="25.822" y="25.302" fill="#FFFFFF" width="42.512" height="15.276"/>
-<rect x="25.822" y="52.868" fill="#FFFFFF" width="42.512" height="15.277"/>
-<path fill="#944022" d="M63.175,20.996H21.658v7.903H62.99c2.296,0,4.16,1.863,4.16,4.159s-1.863,4.157-4.16,4.157H21.658v7.903
-	h41.517c6.661,0,12.061-5.401,12.061-12.062C75.234,26.397,69.836,20.996,63.175,20.996z"/>
-<path fill="#944022" d="M63.175,48.446H21.658v7.9H62.99c2.296,0,4.16,1.862,4.16,4.161c0,2.294-1.863,4.157-4.16,4.157H21.658
-	v7.903h41.517c6.661,0,12.061-5.399,12.061-12.062C75.234,53.848,69.836,48.446,63.175,48.446z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="94px" viewBox="0 0 94 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>bookshelf</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bookshelf" fill-rule="nonzero">
+            <circle id="Oval" fill="#E16426" cx="46.783" cy="46.783" r="46.783"></circle>
+            <rect id="Rectangle" fill="#FFFFFF" x="25.822" y="25.302" width="42.512" height="15.276"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="25.822" y="52.868" width="42.512" height="15.277"></rect>
+            <path d="M63.175,20.996 L21.658,20.996 L21.658,28.899 L62.99,28.899 C65.286,28.899 67.15,30.762 67.15,33.058 C67.15,35.354 65.287,37.215 62.99,37.215 L21.658,37.215 L21.658,45.118 L63.175,45.118 C69.836,45.118 75.236,39.717 75.236,33.056 C75.234,26.397 69.836,20.996 63.175,20.996 Z" id="Path" fill="#944022"></path>
+            <path d="M63.175,48.446 L21.658,48.446 L21.658,56.346 L62.99,56.346 C65.286,56.346 67.15,58.208 67.15,60.507 C67.15,62.801 65.287,64.664 62.99,64.664 L21.658,64.664 L21.658,72.567 L63.175,72.567 C69.836,72.567 75.236,67.168 75.236,60.505 C75.234,53.848 69.836,48.446 63.175,48.446 Z" id="Path" fill="#944022"></path>
+        </g>
+    </g>
 </svg>
